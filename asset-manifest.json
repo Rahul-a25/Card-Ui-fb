@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Card-Ui-fb/static/css/main.be3499d5.css",
+    "main.js": "/Card-Ui-fb/static/js/main.8dc34626.js",
+    "static/js/787.c1112931.chunk.js": "/Card-Ui-fb/static/js/787.c1112931.chunk.js",
+    "index.html": "/Card-Ui-fb/index.html",
+    "main.be3499d5.css.map": "/Card-Ui-fb/static/css/main.be3499d5.css.map",
+    "main.8dc34626.js.map": "/Card-Ui-fb/static/js/main.8dc34626.js.map",
+    "787.c1112931.chunk.js.map": "/Card-Ui-fb/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be3499d5.css",
+    "static/js/main.8dc34626.js"
+  ]
+}
